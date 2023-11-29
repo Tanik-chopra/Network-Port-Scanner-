@@ -1,0 +1,9 @@
+> Port Scanner
+==============
+
+ Target:	localhost
+ IP Adr.:	59.144.51.58
+ Ports: 	[ 21 / 22 ]
+ Result:	[ 1 / 22 ]
+
+ Port 21 	[open]
